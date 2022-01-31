@@ -1,1 +1,2 @@
 line 1 in main branch
+line2 from br1
